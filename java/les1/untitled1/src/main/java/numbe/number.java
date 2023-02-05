@@ -1,6 +1,7 @@
 package numbe;
 
 public class number {
+
     public static void namg (int year)
     {
         boolean name = false;
